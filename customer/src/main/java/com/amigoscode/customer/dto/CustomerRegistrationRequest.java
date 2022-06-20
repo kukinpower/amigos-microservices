@@ -1,4 +1,4 @@
-package com.amigoscode.customer.model;
+package com.amigoscode.customer.dto;
 
 public record CustomerRegistrationRequest(
     String firstName,
